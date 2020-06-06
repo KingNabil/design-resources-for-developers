@@ -117,6 +117,7 @@
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set  |
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
 | [UI Gradients](https://uigradients.com/)| UI gradients color generator |
+| [Css Gradients](https://cssgradient.io/)| Css gradients color generator |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -161,6 +162,7 @@
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
+| [Loading](https://loading.io/) | Free animation icon with gif,svg,png & css format |
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
 | [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [Devicon](https://konpa.github.io/devicon/) | Devicon is a set of icons representing programming languages, designing & development tools |
@@ -200,6 +202,8 @@
 | [PxHere](https://pxhere.com/)| Free Images & Free stock photos - PxHere |
 | [Piqsels](https://piqsels.com/)| Royalty Free Stock Photos |
 | [FoodiesFeed](https://www.foodiesfeed.com/)| Food photo stock |
+| [Free Range Stock](https://www.freerangestock.com/)| collect Great photos for totally free |
+| [Fav Png](https://favpng.com/)| Free Png photo |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -229,7 +233,7 @@
 | ----------------------- | ------------------ |
 | [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
 | [Bensound](https://www.bensound.com/)| Download Royalty Free Music for free and use it in your project |
-| [Mixkit](https://mixkit.co/free-stock-music/)| Free music for your projects |
+| [Mix kit](https://mixkit.co/free-stock-music/)| Free music for your projects |
 | [Freesound](https://freesound.org/)| Free stock music and sounds |
 | [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
@@ -409,11 +413,11 @@
 | [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
 | [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
 | [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
+| [Tail Blocks](https://mertjf.github.io/tailblocks/)| A wonderfull,css kit for a responsive web design |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
 ## React UI
 
 >UI and component libraries for the React JavaScript framework
